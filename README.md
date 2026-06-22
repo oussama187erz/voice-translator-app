@@ -1,6 +1,6 @@
-# 🌍 Universal Voice Translator
+# Universal Voice Translator
 
-🎤 **Voice Translator App with Real-Time Speech Recognition and TTS**
+**Voice Translator App with Real-Time Speech Recognition and TTS**
 
 ---
 
@@ -11,12 +11,12 @@ It combines **real-time speech recognition**, **automatic translation** via Goog
 ---
 
 ## Key Features
-- 🎙️ **Real-time speech recognition** from microphone input  
-- 🌍 **Instant translation** between multiple languages  
-- 🔊 **Text-to-Speech** playback of translations  
-- 🖥️ **Modern, user-friendly GUI** built with `ttkbootstrap`  
-- 🔍 **Autocomplete language selection** for faster input  
-- ✅ Displays both **original and translated text**  
+- **Real-time speech recognition** from microphone input  
+-  **Instant translation** between multiple languages  
+-  **Text-to-Speech** playback of translations  
+-  **Modern, user-friendly GUI** built with `ttkbootstrap`  
+-  **Autocomplete language selection** for faster input  
+- Displays both **original and translated text**  
 
 ---
 
